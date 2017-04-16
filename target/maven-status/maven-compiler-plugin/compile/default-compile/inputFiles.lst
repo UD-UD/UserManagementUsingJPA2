@@ -1,0 +1,17 @@
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/configuration/AppInitializer.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/convertor/RoleToUserProfileConvertor.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/configuration/JpaConfig.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/model/UserProfile.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/controllers/AppController.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/configuration/AppConfig.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/services/UserProfileServices.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/dao/AbstractDao.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/model/User.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/dao/UserProfileDao.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/services/UserService.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/model/UserProfileType.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/services/UserServiceImpl.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/dao/UserDaoImpl.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/dao/UserDao.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/dao/UserProfileDaoImpl.java
+/home/ud/SpringWorkspace/Spring Projects/JPA2Implementation/src/main/java/com/jpa2/userStore/services/UserProfileServiceImpl.java

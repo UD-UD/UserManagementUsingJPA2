@@ -1,0 +1,17 @@
+com/jpa2/userStore/dao/UserProfileDaoImpl.class
+com/jpa2/userStore/model/UserProfileType.class
+com/jpa2/userStore/services/UserProfileServiceImpl.class
+com/jpa2/userStore/configuration/JpaConfig.class
+com/jpa2/userStore/dao/UserDaoImpl.class
+com/jpa2/userStore/dao/UserDao.class
+com/jpa2/userStore/services/UserProfileServices.class
+com/jpa2/userStore/dao/AbstractDao.class
+com/jpa2/userStore/dao/UserProfileDao.class
+com/jpa2/userStore/convertor/RoleToUserProfileConvertor.class
+com/jpa2/userStore/services/UserServiceImpl.class
+com/jpa2/userStore/model/UserProfile.class
+com/jpa2/userStore/configuration/AppInitializer.class
+com/jpa2/userStore/services/UserService.class
+com/jpa2/userStore/model/User.class
+com/jpa2/userStore/configuration/AppConfig.class
+com/jpa2/userStore/controllers/AppController.class
